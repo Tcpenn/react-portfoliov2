@@ -8,8 +8,7 @@ const About = () => {
         <img className="sectionPic" src={profilePicture} alt='Tyler'/> 
             <div className = "sectionText">
             <h2 className = 'sectionTitle'>About</h2>
-            The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
-            </div>
+            This portfolio will showcase my projects to keep track of all my progress as I learn more and more about full stack web development and pursue my career in computer science and engineering.            </div>
         </section>
     );
 };
