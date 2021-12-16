@@ -6,9 +6,9 @@ This is a personal React portfolio to showcase my projects as I learn full stack
 
 ## Table of contents
 
-*[Install and Usage](#install)
-*[Credits](#credits)
-*[Technology](#technology)
+* [Install and Usage](#install)
+* [Credits](#credits)
+* [Technology](#technology)
 
 ## Install and Usage
 
