@@ -8,7 +8,7 @@ const  Header = () => {
       <section>
         <div className = 'Div1'>
           <a href="/" className='header'>
-            <DiCssdeck size="3rem"/> <span>Header</span>
+            <DiCssdeck size="3rem"/> <span>My Portfolio</span>
           </a>
         </div>
         <div className = 'Div2'>          

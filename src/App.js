@@ -14,8 +14,8 @@ function App() {
       <Header/>
       <main>
         <About/>
-        <Contact/>
         <Projects/>
+        <Contact/>
         <Resume/>
       </main>
       <Footer/>
