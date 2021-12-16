@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfoliov2/static/css/main.d8bd77c1.css",
+    "main.js": "/react-portfoliov2/static/js/main.68a2393b.js",
+    "static/js/787.2785cae2.chunk.js": "/react-portfoliov2/static/js/787.2785cae2.chunk.js",
+    "static/media/ME.JPG": "/react-portfoliov2/static/media/ME.9d4f118784d9cf7bac8e.JPG",
+    "static/media/tech-blog.jpg": "/react-portfoliov2/static/media/tech-blog.82b1c9c28a247e4734fd.jpg",
+    "static/media/planner.jpg": "/react-portfoliov2/static/media/planner.4e127d504c02002e9d2d.jpg",
+    "static/media/budget_tracker.jpg": "/react-portfoliov2/static/media/budget_tracker.7120db9e70501b12869e.jpg",
+    "static/media/password-gen.jpg": "/react-portfoliov2/static/media/password-gen.ea9a131246f8f9cbec64.jpg",
+    "index.html": "/react-portfoliov2/index.html",
+    "main.d8bd77c1.css.map": "/react-portfoliov2/static/css/main.d8bd77c1.css.map",
+    "main.68a2393b.js.map": "/react-portfoliov2/static/js/main.68a2393b.js.map",
+    "787.2785cae2.chunk.js.map": "/react-portfoliov2/static/js/787.2785cae2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8bd77c1.css",
+    "static/js/main.68a2393b.js"
+  ]
+}
