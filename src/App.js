@@ -1,21 +1,25 @@
 import React from 'react'
+import "./App.css"
 
-import Layout from './Components/Layout/Layout'
+import Header from "./Components/Header/Header"
 import About from './Components/About/About'
 import Contact from './Components/Contact/Contact'
 import Projects from './Components/Projects/Project'
 import Resume from './Components/Resume/Resume'
+import Footer from './Components/Footer/Footer'
 
 function App() {
   return (
-    <Layout>
+    <div className='Container'>
+      <Header/>
       <main>
         <About/>
-        <Contact/>
         <Projects/>
+        <Contact/>
         <Resume/>
       </main>
-    </Layout>
+      <Footer/>
+    </div>
   );
 }
 
